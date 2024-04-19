@@ -13,3 +13,4 @@ add water: adds water to the glass using a pump - dc motor pump actuation
 stir: uses a mechanical arm to stir the contents of the glass - 2 servo motors actuation
 ask: ask user for more input.
 
+Link to Video: https://www.linkedin.com/posts/kvsnoufal_llm-agents-for-robotic-control-configured-activity-7186561806323093504--0Iu?utm_source=share&utm_medium=member_desktop
